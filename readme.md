@@ -1,6 +1,6 @@
 This a simple and minimal backend base with different methods.
 <br>
-Start with clone or download the repo, then make a npm install. Finally launch 'npm start' or 'npm run watch'.
+Start with clone or download the repo, then make a npm install. Finally setup .env and launch 'npm start' or 'npm run watch'.
 <br>
 You can use these methods :
 <br>
